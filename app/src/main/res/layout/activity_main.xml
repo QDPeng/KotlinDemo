@@ -14,11 +14,11 @@
         android:text="notification_channel" />
 
     <Button
-        android:id="@+id/autofill_framework"
+        android:id="@+id/picture_in_picture"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="onViewClick"
-        android:text="autofill"
+        android:text="picture_in_picture"
         app:layout_constraintLeft_toRightOf="@+id/notification_channel"
         app:layout_constraintRight_toRightOf="parent" />
 
